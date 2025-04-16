@@ -1,0 +1,23 @@
+
+Model: TwoLayerFNN
+----------------------------
+Performance:
+   - Final training loss: 0.0214
+   - Final validation loss: 0.0697
+   - Average Pearson correlation: 0.6536
+   - Average explained variance: 0.4376
+
+Hyperparameters:
+   - Learning Rate: 5e-05
+   - PCA Usage: True
+   - L2 Regularization: True
+   - Dropout Usage: True
+   - Dropout Rate: 0.5
+   - Layer used: layer3
+   - Input dimension: 2067
+   - Output dimension: 168
+   - Hidden layer dimension: 1024
+   - Batch size: 32
+   - Optimizer: Adam
+   - Loss Function: MSELoss
+   - Number of Epochs: 400
