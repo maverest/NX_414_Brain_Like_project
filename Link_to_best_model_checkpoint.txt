@@ -1,0 +1,2 @@
+Here is the link to our best model checkpoint hosted on EPFL Google Drive.
+https://drive.google.com/file/d/15vFcNct_tc0eVjpAmS94EcLjIpwgpsiq/view?usp=share_link
