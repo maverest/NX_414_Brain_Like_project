@@ -1,2 +1,4 @@
-Here is the link to our best model checkpoint hosted on EPFL Google Drive.
+NX-414 Mini Project: Romain Frossard, Meriam Bouguecha, Mathieu Verest
+
+Here is the link to our best model checkpoint hosted on EPFL's Google Drive.
 https://drive.google.com/file/d/15vFcNct_tc0eVjpAmS94EcLjIpwgpsiq/view?usp=share_link
